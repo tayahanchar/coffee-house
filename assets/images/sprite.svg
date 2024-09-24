@@ -1,0 +1,10 @@
+<svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" id="button-icon-left">
+    <rect x="0.5" y="0.5" width="59" height="59" rx="29.5"></rect>
+    <path d="M36.5 30H24M24 30L30 24M24 30L30 36" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" id="button-icon-right">
+    <rect x="0.5" y="0.5" width="59" height="59" rx="29.5"></rect>
+    <path d="M24 30H36.5M36.5 30L30.5 24M36.5 30L30.5 36" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+</svg>
